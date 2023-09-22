@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Applying Filters to SQL Queries](www.youtube.com)
 <h2>📺 Popular YouTube Videos</h2>
 
